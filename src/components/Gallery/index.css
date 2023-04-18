@@ -1,0 +1,45 @@
+/* Write your code here. */
+.x {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+}
+.xx {
+  background-color: white;
+  height: 80vh;
+  width: 70vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  align-items: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 20);
+  margin: 10px;
+}
+
+.whiteCard {
+  background-color: white;
+  height: 20vh;
+  width: 30vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+
+  align-items: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 20);
+  margin: 10px;
+}
+.img {
+  height: 30px;
+  width: 30px;
+  margin: 12px;
+}
+.imgs {
+  height: 200px;
+  width: 400px;
+}
+.list {
+  list-style-type: none;
+}
